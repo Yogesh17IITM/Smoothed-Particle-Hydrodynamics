@@ -6,7 +6,7 @@ DJ Price's Concepts re-explained (see PDF) </br>
 ## Classical Dam Break Problem (Visualisation using ParaView)
 ![demo](DamBreak.gif)
 
-written by </br>
+Author, </br>
 Yogesh, </br>
 IIT Madras.
 
